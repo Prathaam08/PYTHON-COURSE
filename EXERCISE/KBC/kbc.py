@@ -8,8 +8,8 @@ for i in range(len(question)):
     if( userAns == answer[i]):
        print("correct answer")
        priceWon = priceWon + 10000 
+       print("You won ₹" ,priceWon)
     else:
-        print("incorrect answer")
+        print("incorrect answer")  
         priceWon
         break
-print("You won the ₹",priceWon)
