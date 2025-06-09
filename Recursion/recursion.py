@@ -47,7 +47,7 @@ num = int(input("Enter a number: "))
 print("Numbers from 1 to", num, "are:")
 print_forward(num)
 
-# 13
+
 
     
 
